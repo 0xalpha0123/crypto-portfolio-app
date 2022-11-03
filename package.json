@@ -49,7 +49,7 @@
     "@types/jasminewd2": "~2.0.2",
     "@types/node": "^12.11.1",
     "codelyzer": "^6.0.0",
-    "cordova": "^10.0.0",
+    "cordova": "^11.0.0",
     "gulp": "^4.0.2",
     "gulp-gh-pages": "^0.5.4",
     "igniteui-cli": "^8.1.0",
